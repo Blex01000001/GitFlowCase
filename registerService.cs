@@ -8,5 +8,6 @@ namespace GitFlowCase
 {
     internal class registerService
     {
+        //create registerService function
     }
 }
