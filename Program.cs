@@ -17,6 +17,7 @@ namespace GitFlowCase
             //develop add some code
             //develop add some code
             //develop add some code
+            //fix bug in develop/Program
         }
     }
 }
