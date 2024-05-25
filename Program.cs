@@ -13,7 +13,7 @@ namespace GitFlowCase
             //add backend/servise folder
             //modify/create code in Program
             //fix bug in Program
-            //register coding
+            //register coding2
         }
     }
 }
